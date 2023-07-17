@@ -1,16 +1,16 @@
-### Hi there 👋
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-<!--
-**Isabelaponte/Isabelaponte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Oii, meu nome é Isabela! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%>
+## Sobre mim:
+- 🏡	 Moro em Araraquara/SP
+- 👩‍💻 No momento, estou cursando Ánalise e Desenvolvimento de Sistemas e possuo formação técnica completa na mesma área
+- 🧭 Estagiária na Compass.UOL como Front-end Developer
+- 💕 Apaixonada por Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas
+<div align='center'>
+  <img width="41%"  src="https://github-readme-stats.vercel.app/api?username=Isabelaponte&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitaLaura&layout=compact&langs_count=16&theme=radical"/>
+</div>
+

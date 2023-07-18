@@ -14,4 +14,3 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelaponte&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-![snake](https://raw.githubusercontent.com/Isabelaponte/Isabelaponte/output/github-contribution-grid-snake.svg")

@@ -14,8 +14,4 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelaponte&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isabelaponte/Isabelaponte/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isabelaponte/Isabelaponte/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Isabelaponte/Isabelaponte/output/github-contribution-grid-snake.svg">
-</picture>
+![snake](https://raw.githubusercontent.com/Isabelaponte/Isabelaponte/output/github-contribution-grid-snake.svg")

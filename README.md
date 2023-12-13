@@ -3,9 +3,10 @@
 
 # Oii, meu nome é Isabela! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%>
 ## Sobre mim:
-- 🏡	 Moro em Araraquara/SP
-- 👩‍💻 No momento, estou cursando Ánalise e Desenvolvimento de Sistemas e possuo formação técnica completa na mesma área
-- 🧭 Estagiária na Compass.UOL como Front-end Developer
+- 👾 Tenho 19 anos
+- 🏡 Moro em Araraquara/SP
+- 👩‍💻 No momento, estou cursando Ánalise e Desenvolvimento de Sistemas no IFSP - São Carlos
+- 📖 Possuo formação técnica completa na mesma área
 - 💕 Apaixonada por Desenvolvimento Web
 
 ## 📈 Estatísticas

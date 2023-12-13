@@ -9,7 +9,7 @@
 - 📖 Possuo formação técnica completa na mesma área
 - 💕 Apaixonada por Desenvolvimento Web
 
-###Acesse meu LinkedIn:
+### Acesse meu LinkedIn:
 <a href="https://www.linkedin.com/in/isabela-de-ponte-747606241/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 
 ## 📈 Estatísticas

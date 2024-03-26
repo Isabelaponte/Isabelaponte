@@ -3,7 +3,7 @@
 
 # Oii, meu nome é Isabela! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%>
 ## Sobre mim:
-- 👾 Tenho 19 anos
+- 👾 Tenho 20 anos
 - 🏡 Moro em Araraquara/SP
 - 👩‍💻 No momento, estou cursando Ánalise e Desenvolvimento de Sistemas no IFSP - São Carlos
 - 📖 Possuo formação técnica completa na mesma área
